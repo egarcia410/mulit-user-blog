@@ -15,7 +15,7 @@ In this project you will be building a multi user blog(along the lines of Medium
 
 ##### Deployment
 * Using GAE Launcher - Click "Deploy"
-* View  at [http://multi-user-blog-140521.appspot.com/signup](http://multi-user-blog-140521.appspot.com/signup)
+* View  at [http://multi-user-blog-140523.appspot.com](http://multi-user-blog-140521.appspot.com/signup)
 
 
 
