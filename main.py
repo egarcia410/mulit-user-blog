@@ -361,7 +361,7 @@ class SignUpHandler(BaseHandler):
             u = User.register(self.username, self.password, self.email)
             u.put()
             self.login(u)
-            self.render('/')
+            self.redirect('/')
 
 class LoginHandler(BaseHandler):
     def get(self):
